@@ -20,13 +20,9 @@
 
 ### 📈 Github profile stats
 
-<div align="center">
-
 ![Visitors][visitors-badge]
 ![Github stars][github-stars-shield]
 ![Github followers][github-followers-shield]
-
-</div>
 
 ### ⌨️ Most used language
 <div align="center">
