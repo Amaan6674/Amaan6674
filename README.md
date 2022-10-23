@@ -5,7 +5,7 @@
 <hr/>
 
 ## 💫 About Me:
-✨ I’m passionate about learning new technologies<br>🌱 I’m currently learning the <b>MERN</b> stack<br>🔭 I’m currently working on a <b>Subscription based eCommerce Website</b><br>👯 I’m looking to collaborate on projects<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>MERN</b> stack<br>🔭 Working on a <b>Subscription based eCommerce Website</b><br>👯 Looking forward to collaborate on projects<br>
 
 ## 💻 Tech Stack & Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
