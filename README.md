@@ -19,7 +19,6 @@
 </div>
 
 ### 📈 Github profile stats
-
 ![Visitors][visitors-badge]
 ![Github stars][github-stars-shield]
 ![Github followers][github-followers-shield]
