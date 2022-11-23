@@ -84,7 +84,7 @@
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Amaan6674&theme=algolia
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Amaan6674&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/Amaan330/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-10-green?labelColor=white&logo=geeksforgeeks&style=flat
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-9-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/Amaan330
 [gfg-url]: https://auth.geeksforgeeks.org/user/amaanshaf0ev
 [hackerrank-shield]: https://img.shields.io/badge/-Amaan%20Shaikh-black?style=flat&logo=hackerrank
