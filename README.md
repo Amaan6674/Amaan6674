@@ -80,7 +80,7 @@
 [github-stars-shield]: https://img.shields.io/github/stars/Amaan6674?style=social
 [github-followers-shield]: https://img.shields.io/github/followers/Amaan6674?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan6674&theme=algolia
-[github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=Amaan6674&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=Amaan6674&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Amaan6674&theme=algolia
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Amaan6674&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/Amaan330/solved?color=orange&logo=leetcode
