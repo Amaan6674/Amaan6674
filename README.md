@@ -49,9 +49,8 @@
 ## 👨‍💻 Coding Profiles  
 <div align="center">
 
-  <a href="">[![GFG Institute rank][gfg-rank-shield]][gfg-url]</a>
-  <a href="">[![Leetcode problems][leetcode-problems-badge]][leetcode-url]</a>
-  <a href="">[![Hackerrank][hackerrank-shield]][hackerrank-url]</a>
+  <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
+  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
 </div>
 
@@ -83,8 +82,8 @@
 [github-streak]: https://streak-stats.demolab.com?user=Amaan6674&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Amaan6674&theme=algolia
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Amaan6674&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/Amaan330/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-4-green?labelColor=white&logo=geeksforgeeks&style=flat
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/Amaan330?theme=dark&font=Roboto&ext=heatmap
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=amaanshaf0ev
 [leetcode-url]: https://leetcode.com/Amaan330
 [gfg-url]: https://auth.geeksforgeeks.org/user/amaanshaf0ev
 [hackerrank-shield]: https://img.shields.io/badge/-Amaan%20Shaikh-black?style=flat&logo=hackerrank
