@@ -23,7 +23,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/iNMxaorn5Fa3fFvexC/giphy.gif" width="40">  Coding Profiles  
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
 <div align="center">
     
   <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
