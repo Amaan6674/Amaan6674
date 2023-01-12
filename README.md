@@ -4,7 +4,7 @@
 </p>
 <hr/>
 
-## 💫 About Me:
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 ✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>MERN</b> stack<br>🔭 Working on a <b>Subscription based eCommerce Website</b><br>👯 Looking forward to collaborate on projects<br>
 
 ## 💻 Tech Stack & Tools:
@@ -46,10 +46,11 @@
 
 </div>
 
-## 👨‍💻 Coding Profiles  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Coding Profiles  
 <div align="center">
-
+    
   <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
+  
   <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
 </div>
@@ -59,7 +60,7 @@
 
 ![IEEE][ieee-shield] [Voice Prescription using Natural Language Understanding][ieee-paper-url]
 
-## 🙋‍♂️ Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
 [![Gmail][gmail-shield]][gmail-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
