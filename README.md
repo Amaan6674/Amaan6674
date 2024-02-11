@@ -72,7 +72,7 @@
 [github-streak]: https://streak-stats.demolab.com?user=Amaan6674&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Amaan6674&theme=algolia
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Amaan6674&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/Amaan330?theme=dark&font=Roboto&ext=heatmap
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/amaanshaikh6674?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=amaanshaf0ev
 [leetcode-url]: https://leetcode.com/Amaan330
 [gfg-url]: https://auth.geeksforgeeks.org/user/amaanshaf0ev
