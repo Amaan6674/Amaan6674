@@ -57,6 +57,7 @@
   ![GitHub Stats][github-stats]
   ![Github streak][github-streak]
   ![Github trophy][github-trophy]
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amaan6674&theme=react-dark)
 
 </div>
 
