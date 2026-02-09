@@ -54,9 +54,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 <div align="center">
 
-  ![GitHub Stats][github-stats]
   ![Github streak][github-streak]
-  ![Github trophy][github-trophy]
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amaan6674&theme=react-dark)
 
 </div>
@@ -97,9 +95,7 @@
 
 
 
-[github-stats]: https://github-readme-stats.vercel.app/api?username=Amaan6674&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[github-streak]: https://streak-stats.demolab.com?user=Amaan6674&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=Amaan6674&theme=algolia
+[github-streak]: https://streak-stats.demolab.com/?user=Amaan6674&theme=algolia
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/amaanshaikh6674?theme=dark&font=Roboto&ext=heatmap
 
 [leetcode-url]: https://leetcode.com/Amaan330
